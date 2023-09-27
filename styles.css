@@ -1,0 +1,48 @@
+img {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    /* This ensures the image maintains its aspect ratio */
+}
+
+div{
+    color: #a9a9ba;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 0px;
+    padding-top: 10px;
+}
+
+h1{
+    color: #9f2042;
+    text-align: center;
+    font-family: 'Roboto Slab';
+        font-size: 2rem;
+    margin-bottom: 0px;
+        
+}
+
+body{
+    margin-top: 0em;
+    margin-left: 4em;
+    margin-right: 4em;
+    margin-bottom: 0em;
+}
+
+blockquote {
+    color: black;
+    text-align: center;
+    font-family: 'Roboto Slab';
+    font-size: 1.25rem;
+   
+    border:solid;
+    border-color: #f9f9f9;
+    border-style:groove;
+    text-transform: full-width;
+
+}
+p{
+font-family: 'Roboto Slab';
+    font-size: 1.25rem;
+}
+
